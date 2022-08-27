@@ -1,0 +1,29 @@
+.edit {
+  background-color: royalblue;
+  width: 230px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px;
+  margin: 60px auto;
+  border-radius: 20px;
+}
+.edit form button {
+  height: 40px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  width: 200px;
+}
+.edit form .ism_inp {
+  height: 40px;
+  width: 200px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.edit select {
+  margin: 10px 0;
+  width: 200px;
+  height: 30px;
+  border-radius: 20px;
+}

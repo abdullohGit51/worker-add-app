@@ -1,0 +1,58 @@
+.homePage{
+  padding: 30px 0 0 0 ;
+}
+.homePage th,
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+.homePage table {
+  background-color: darkcyan;
+  color: white;
+  margin: auto;
+  margin-top: 30px;
+}
+.homePage form {
+  background-color: royalblue;
+  width: 260px;
+  padding: 30px;
+  border-radius: 10px;
+  margin: auto;
+}
+.homePage form button{
+  height: 40px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+.homePage form .ism_inp {
+  height: 40px;
+  width: 200px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.homePage select {
+  margin: 10px 0;
+  width: 200px;
+  height: 30px;
+  border-radius: 20px;
+}
+.homePage button {
+  width: 200px;
+}
+.pagination{
+width: 300px;
+  margin:50px auto;
+
+}
+.pagination button {
+  border-radius: 50%;
+  border: none;
+  width: 50px;
+  height: 50px;
+  background-color: darkblue;
+  color: white;
+  margin-right: 10px;
+  cursor: pointer;
+}
